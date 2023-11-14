@@ -9,7 +9,7 @@
 - I’m currently working on upgrading my skills in **Data Analysis**
 - I am a postgraduate in **Computer Science**
 - I like to build interactive dashboards and tell **narratives behind**
-- Ask me about **Excel, SQL, PowerBI and Python**
+- Ask me about **Excel, SQL, PowerBI, Machine Learning, VBA, VLOOKUP, ETL, EDA and Python**
 
 <h3 align="left">Languages and Tools:</h3>
 </a> <a href="https://powerbi.microsoft.com/en/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532" alt="Microsoft Power BI" width="40" height="40"/></a></a>
@@ -23,13 +23,4 @@
 </a> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg" alt="aws" width="40" height="40"/> 
 
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=micky-26&label=Profile%20views&color=0e75b6&style=flat" alt="micky-26" /> </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=micky-26&show_icons=true&locale=en&layout=compact" alt="micky-26" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=micky-26&show_icons=true&locale=en" alt="micky-26" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=micky-26&" alt="micky-26" /></p>
 
