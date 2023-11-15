@@ -6,6 +6,7 @@
 
 <p>I'm an aspiring Data Analyst with a strong background in Advanced Excel, SQL, Python and Power BI. Proficient in programming languages such as Python and SQL with experience in developing data-driven solutions to complex business problems.</p>
 
+- You can find my projects here <a href = 'https://www.kaggle.com/michandra'>Kaggle</a>
 - I’m currently working on upgrading my skills in **Data Analysis**
 - I am a postgraduate in **Computer Science**
 - I like to build interactive dashboards and tell **narratives behind**
@@ -23,4 +24,7 @@
 </a> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg" alt="aws" width="40" height="40"/> 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=micky-26&show_icons=true&locale=en&layout=compact" alt="micky-26" /></p>
 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=micky-26&" alt="micky-26" /></p>
