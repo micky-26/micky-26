@@ -1,7 +1,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nidhiy7&label=Profile%20views&color=0e75b6&style=flat" alt="nidhiy7" /> </p>
 <h1 align="center">Hi there 👋, This is Mohini Chandra</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate Data Analyst</h3>
 
 
 <p>I'm an aspiring Data Analyst with a strong background in Advanced Excel, SQL, Python, and Power BI. Proficient in programming languages such as Python and SQL with experience in developing data-driven solutions to complex business problems.</p>
