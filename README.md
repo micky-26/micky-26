@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nidhiy7&label=Profile%20views&color=0e75b6&style=flat" alt="mohini" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=micky-26&label=Profile%20views&color=0e75b6&style=flat" alt="micky-26" /> </p>
 
 <h1 align="center">Hi there 👋, This is Mohini Chandra</h1>
 <h3 align="center">A passionate Data Analyst</h3>
